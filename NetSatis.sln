@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netsatis.Entities", "Netsatis.Entities\Netsatis.Entities.csproj", "{4A09DAB3-E58B-428B-951B-3444EAEF4258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetSatis.BackOffice", "NetSatis.BackOffice\NetSatis.BackOffice.csproj", "{835D4E7B-44F8-4F21-B335-F527C52758C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A09DAB3-E58B-428B-951B-3444EAEF4258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A09DAB3-E58B-428B-951B-3444EAEF4258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A09DAB3-E58B-428B-951B-3444EAEF4258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A09DAB3-E58B-428B-951B-3444EAEF4258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{835D4E7B-44F8-4F21-B335-F527C52758C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835D4E7B-44F8-4F21-B335-F527C52758C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835D4E7B-44F8-4F21-B335-F527C52758C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835D4E7B-44F8-4F21-B335-F527C52758C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFB21EB4-11D9-4CF7-9282-64042FF6B37F}
+	EndGlobalSection
+EndGlobal
